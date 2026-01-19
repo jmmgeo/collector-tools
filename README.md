@@ -1,4 +1,4 @@
-A set of utilities to help configure web maps and feature layers for use with Collector for ArcGIS. Browse the sections below, or jump to a specific section.
+A set of utilities to help configure web maps and feature layers for use with Collector for ArcGIS. Browse the sections below, or jump to a specific section.  Since ArcGIS Collector is retired, this repository has been archived and will receive no further updates.
 
 **Note: Many of the scripts, notebooks, and toolboxes can also be applied to `ArcGIS Field Maps`.** 
 
